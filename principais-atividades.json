@@ -1,0 +1,44 @@
+{
+    "Apple": {
+        "Usar Aplicativos de Comunicação": 70.0,
+        "Tirar Fotos": 65.0,
+        "Jogar": 50.0,
+        "Assistir Vídeos": 60.0,
+        "Navegar na Internet": 75.0
+    },
+    "Samsung": {
+        "Usar Aplicativos de Comunicação": 72.0,
+        "Tirar Fotos": 68.0,
+        "Jogar": 55.0,
+        "Assistir Vídeos": 62.0,
+        "Navegar na Internet": 78.0
+    },
+    "Motorola": {
+        "Usar Aplicativos de Comunicação": 60.0,
+        "Tirar Fotos": 55.0,
+        "Jogar": 45.0,
+        "Assistir Vídeos": 50.0,
+        "Navegar na Internet": 65.0
+    },
+    "Xiaomi": {
+        "Usar Aplicativos de Comunicação": 68.0,
+        "Tirar Fotos": 62.0,
+        "Jogar": 50.0,
+        "Assistir Vídeos": 55.0,
+        "Navegar na Internet": 70.0
+    },
+    "Nokia": {
+        "Usar Aplicativos de Comunicação": 50.0,
+        "Tirar Fotos": 40.0,
+        "Jogar": 30.0,
+        "Assistir Vídeos": 35.0,
+        "Navegar na Internet": 45.0
+    },
+    "OnePlus": {
+        "Usar Aplicativos de Comunicação": 65.0,
+        "Tirar Fotos": 60.0,
+        "Jogar": 55.0,
+        "Assistir Vídeos": 58.0,
+        "Navegar na Internet": 72.0
+    }
+}

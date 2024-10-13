@@ -1,0 +1,11 @@
+{
+  "total_alunos": 30,
+  "celulares_por_marca": {
+    "Apple": 7,
+    "Samsung": 9,
+    "Motorola": 5,
+    "Xiaomi": 6,
+    "Outras": 3
+  },
+  "media_satisfacao": 4.2
+}
